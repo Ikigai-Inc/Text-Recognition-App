@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710575590962",
+    "project_id": "seewhat-dev",
+    "storage_bucket": "seewhat-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710575590962:android:eb16250c4e3dbd3fb8762b",
+        "android_client_info": {
+          "package_name": "com.example.startup_name_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710575590962-fh9044c3r1sej7e8od4tjkrjpean9mmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSOAfRA3SnsgX1a2QWVZzHcoRGBy5MiHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710575590962-fh9044c3r1sej7e8od4tjkrjpean9mmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
